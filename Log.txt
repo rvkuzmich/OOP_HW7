@@ -1,0 +1,6 @@
+февр. 27, 2024 12:04:07 AM ru.gb.oop.hw7.controller.Controller start
+INFO: Комплексные числа заданы
+февр. 27, 2024 12:04:08 AM ru.gb.oop.hw7.controller.Controller start
+INFO: Операция определена
+февр. 27, 2024 12:04:08 AM ru.gb.oop.hw7.controller.Controller start
+INFO: Результат вычислен успешно
